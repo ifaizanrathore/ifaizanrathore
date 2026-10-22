@@ -36,7 +36,7 @@ I'm a **full-stack developer** who builds web apps, dashboards and the integrati
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**laravel-task-api**](https://github.com/ifaizanrathore/laravel-task-api) | Task management REST API with token auth, filtering, policies and a Pest test suite | Laravel 12, Sanctum, Pest |
-| [**wix-assign**](https://github.com/ifaizanrathore/wix-assign) | Two-way Wix ↔ HubSpot contact sync with OAuth, form capture and field mapping | TypeScript, OAuth 2.0, Webhooks |
+| [**wix-hubspot-next**](https://github.com/ifaizanrathore/wix-hubspot-next) | Two-way Wix ↔ HubSpot contact sync with OAuth, loop prevention, form capture and field mapping | Next.js, TypeScript, MongoDB, OAuth 2.0 |
 | [**expense-tracker**](https://github.com/ifaizanrathore/expense-tracker) · [demo](https://ifaizanrathore.github.io/expense-tracker/) | Private in-browser expense tracker with budgets and CSV export | React 19, TypeScript, Tailwind |
 | [**url-shortener-api**](https://github.com/ifaizanrathore/url-shortener-api) | URL shortener with custom slugs, expiry and click tracking | Express 5, TypeScript, Zod |
 | [**bfgr-website**](https://github.com/ifaizanrathore/bfgr-website) · [live](https://raza-blush.vercel.app) | Corporate website with animations and an interactive world map | Next.js 16, Tailwind v4, Framer Motion |
@@ -44,3 +44,5 @@ I'm a **full-stack developer** who builds web apps, dashboards and the integrati
 | [**todotestapp**](https://github.com/ifaizanrathore/todotestapp) | Todo app with Google login and email/password auth | Next.js, NextAuth, Prisma, PostgreSQL |
 
 > Much of my client work lives in private repositories. Happy to walk through it on a call.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ifaizanrathore/).
